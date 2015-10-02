@@ -1,0 +1,33 @@
+{
+  "name": "swint-pipe",
+  "version": "0.1.0",
+  "description": "Pipeline logic flow for Swint",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint lib && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KnowRe/swint-pipe.git"
+  },
+  "keywords": [
+    "swint",
+    "pipe",
+    "async",
+    "callback hell"
+  ],
+  "author": "Kurt Cho <kivoloid@gmail.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KnowRe/swint-pipe/issues"
+  },
+  "homepage": "https://github.com/KnowRe/swint-pipe",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "eslint": "*",
+    "swint-helper": "^0.1.7"
+  }
+}
