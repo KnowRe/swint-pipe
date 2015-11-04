@@ -1,6 +1,6 @@
 {
   "name": "swint-pipe",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Pipeline logic flow for Swint",
   "main": "lib/index.js",
   "scripts": {
