@@ -19,6 +19,18 @@
 		"semi": [
 			2,
 			"always"
+		],
+		"space-after-keywords": [
+			2,
+			"always"
+		],
+		"space-before-blocks": [
+			2,
+			"always"
+		],
+		"brace-style": [
+			2,
+			"1tbs"
 		]
 	},
 	"globals": {
@@ -28,5 +40,7 @@
 		"es6": true,
 		"node": true
 	},
+	"plugins": [
+	],
 	"extends": "eslint:recommended"
 }
