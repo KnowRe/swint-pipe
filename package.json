@@ -22,12 +22,15 @@
   "bugs": {
     "url": "https://github.com/KnowRe/swint-pipe/issues"
   },
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "homepage": "https://github.com/KnowRe/swint-pipe",
   "dependencies": {
   },
   "devDependencies": {
     "mocha": "*",
     "eslint": "*",
-    "swint-helper": "^0.1.7"
+    "swint-helper": "1.x"
   }
 }
