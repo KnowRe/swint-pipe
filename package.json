@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KnowRe/swint-pipe.git"
+    "url": "https://github.com/KnowRe-Dev/swint-pipe.git"
   },
   "keywords": [
     "swint",
@@ -20,12 +20,12 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KnowRe/swint-pipe/issues"
+    "url": "https://github.com/KnowRe-Dev/swint-pipe/issues"
   },
   "engines": {
     "node": ">=4.0.0"
   },
-  "homepage": "https://github.com/KnowRe/swint-pipe",
+  "homepage": "https://github.com/KnowRe-Dev/swint-pipe",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^2.4.5",
