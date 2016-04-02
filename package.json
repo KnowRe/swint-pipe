@@ -29,7 +29,7 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^2.4.5",
-    "eslint": "^2.2.0",
+    "eslint": "^2.6.0",
     "swint-helper": "1.x"
   }
 }
