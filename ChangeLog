@@ -1,3 +1,7 @@
+2017.03.23, Version 1.0.6
+ * Upgrade: Upgraded dependencies & modify node version (support async)
+ * Build: Fixed deps versions
+
 2017.03.06, Version 1.0.5
  * Upgrade: Upgraded dependencies
 
