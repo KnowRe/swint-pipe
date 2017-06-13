@@ -1,4 +1,6 @@
 # swint-pipe
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Knowre-Dev/swint-pipe.svg)](https://greenkeeper.io/)
 Pipeline logic flow for Swint
 
 **Warning: This is not the final draft yet, so do not use this until its official version is launched**
