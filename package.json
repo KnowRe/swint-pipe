@@ -30,6 +30,6 @@
   "devDependencies": {
     "mocha": "3.4.2",
     "eslint": "4.0.0",
-    "swint-helper": "1.2.5"
+    "swint-helper": "1.2.6"
   }
 }
