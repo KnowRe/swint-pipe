@@ -28,8 +28,8 @@
   "homepage": "https://github.com/KnowRe-Dev/swint-pipe",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "4.0.1",
-    "eslint": "4.12.1",
-    "swint-helper": "1.2.8"
+    "mocha": "6.0.2",
+    "eslint": "5.15.1",
+    "swint-helper": "1.2.10"
   }
 }
